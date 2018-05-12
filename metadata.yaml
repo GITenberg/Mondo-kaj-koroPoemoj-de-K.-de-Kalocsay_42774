@@ -1,0 +1,34 @@
+_repo: Mondo-kaj-koroPoemoj-de-K.-de-Kalocsay_42774
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42774-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kalocsay, K. (Kálmán)
+    aliases:
+    - Kalocsay, K. (Kalman)
+    - Kalocsay, Kálmán
+    - Kalocsay, Kolomano
+    birthdate: 1891
+    deathdate: 1976
+    gutenberg_agent_id: '41862'
+    url: http://www.gutenberg.org/2009/agents/41862
+    wikipedia: http://eo.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Kalocsay
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2013-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42774'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PM'
+title: 'Mondo kaj koro
+
+  Poemoj de K. de Kalocsay'
+url: http://www.gutenberg.org/ebooks/42774
