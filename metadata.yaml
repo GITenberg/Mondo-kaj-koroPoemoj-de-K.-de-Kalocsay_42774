@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41862
     wikipedia: http://eo.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Kalocsay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42774#Mondo-kaj-koroPoemoj-de-K.-de-Kalocsay
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2013-05-23'
 gutenberg_type: Text
